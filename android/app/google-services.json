@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "165826088780",
+    "firebase_url": "https://sk-acad.firebaseio.com",
+    "project_id": "sk-acad",
+    "storage_bucket": "sk-acad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165826088780:android:8d17f9085dfabe18",
+        "android_client_info": {
+          "package_name": "com.logiccass.skillcademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165826088780-r8fcgofdkn6d6i20hfrd6hfst4i334no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA070R2to8zi79fWaJarCEdk29BsQ6KQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165826088780-r8fcgofdkn6d6i20hfrd6hfst4i334no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165826088780:android:48d74664d7ef7d74d149e9",
+        "android_client_info": {
+          "package_name": "io.ubicron.test_phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165826088780-r8fcgofdkn6d6i20hfrd6hfst4i334no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA070R2to8zi79fWaJarCEdk29BsQ6KQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165826088780-r8fcgofdkn6d6i20hfrd6hfst4i334no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
